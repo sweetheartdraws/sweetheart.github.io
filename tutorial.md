@@ -7,7 +7,9 @@ permalink: /tutorial
 Assuming you want to join the colony these commands are what will be most useful to you. You can only have a single pawn at a time. Here is a list of commands that will be helpful to you.
 
 ### NOTE:  
-these following commands use the "c$" prefix and cost money
+these following commands use the "c$" prefix and cost money 
+### Example: 
+c$commandhere additionalstuffhere
 
 # Buying a pawn:
 Purchases a pawn and has them join the colony. They will have your name. All the below commands will affect your pawn.  
@@ -68,6 +70,8 @@ Price: 200
 # Social commands (Note you have to have a pawn in the colony in order to use these)
 
 note: these commands use the "c!" with no following space prefix and dont cost any money
+### Example: 
+c!commandhere additionalstuffhere
 
 # Deep chat  
 Makes your pawn have a deep chat with a specified pawn or a random one if not specified   
