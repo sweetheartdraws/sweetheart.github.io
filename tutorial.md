@@ -6,6 +6,14 @@ permalink: /tutorial
 # Pawn commands
 Assuming you want to join the colony these commands are what will be most useful to you. You can only have a single pawn at a time. Here is a list of commands that will be helpful to you.
 
+to start off with the first command yopu should type is:  
+c!joinqueue  
+to join the name queue for the ability to have your name selected for any new pawns that randomly join
+
+if you want to just vist the colony for 24 hours without joining type:  
+c$visitcolony  
+this will send a trader for 24 hours with a few items to trade. it costs 300 to do this command
+
 ### NOTE:  
 these following commands use the "c$" prefix and cost money 
 ### Example: 
