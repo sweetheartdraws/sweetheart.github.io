@@ -3,14 +3,13 @@ title: tutorial
 layout: page
 permalink: /tutorial
 ---
-
-## For viewers 
-Here is a list of commands that will be helpful to you.
+# Pawn commands
+Assuming you want to join the colony these commands are what will be most useful to you. You can only have a single pawn at a time. Here is a list of commands that will be helpful to you.
 
 ### NOTE:  
-therese following commands use the "c$" prefix and cost money
+these following commands use the "c$" prefix and cost money
 
-Buying a pawn:
+# Buying a pawn:
 Purchases a pawn and has them join the colony. They will have your name. All the below commands will affect your pawn.  
 Command: pawn  
 Price: 2917  
