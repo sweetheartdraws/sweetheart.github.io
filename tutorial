@@ -1,0 +1,83 @@
+---
+title: Info
+layout: page
+permalink: /info
+---
+
+##For viewers 
+Here is a list of commands that will be helpful to you.
+
+Buying a pawn:
+Purchases a pawn and has them join the colony. They will have your name. All the below commands will affect your pawn.
+Command: $pawn
+Price: 2917
+
+Change gender
+Changes your gender to the opposite gender
+Command: $genderswap
+Price: 600
+
+Wearing an item
+Purchases and makes your pawn wear a specific item from the item store [item list below]
+Command: $wear ITEMNAMEHERE
+Price: depends on the item
+
+Heal me
+Heals a single affliction that your pawn has assuming it has one
+Command: $healme
+Price: 2167
+
+Revive me
+Revives your pawn incase they die
+Command: $reviveme
+Price: 2833
+
+Rescue me
+Creates a quest where your pawn can be rescued by shamia in case you were kidnapped . It's dependent on her actually doing it tho.
+Command: $rescue
+Price: 1200
+
+Add/remove Trait
+Adds or removes a specified Trait. [Trait list will be listed down below]
+Command: $trait TRAITNAMEHERE
+Price: 3500
+Command: $removetrait TRAITNAMEHERE
+Price: 5500 
+
+Adding passions
+Adds/removes a random passion to your pawn(it makes you gain exp faster)
+Adding:
+Command: $passion
+Price: 7000
+Removing:
+Command: $removepassion
+Price:5000
+
+Increases random skill
+Picks a skill at random and increases the level of it.
+Command: $skillincrease
+Price: 200
+(Note can only be used max 3 times before having a cool down which happens every 2 days)
+
+Social commands (Note you have to have a pawn in the colony in order to use these)
+Deep chat
+Makes your pawn have a deep chat with a specified pawn or a random one if not specified 
+Command: !deepchat username
+
+Chat
+Chats with a random or specified pawn
+Command: !chat username
+
+Insult
+Insults a random or specified pawn
+Command: !insult username
+
+Flirt
+Insults with a random or specified pawn
+Command: !flirt username
+
+All commands
+Shows all available commands. (For commands that exist but aren't specifically located in this list)
+Command: !allcommands
+
+
