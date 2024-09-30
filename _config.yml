@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-remote_theme: sylhare/Type-on-Strap  
+theme: type-on-strap  
 markdown: kramdown
 sass:
   style: compressed
