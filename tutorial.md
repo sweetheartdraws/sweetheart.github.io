@@ -1,5 +1,5 @@
 ---
-title: Info
+title: tutoial
 layout: page
 permalink: /tutorial
 ---
