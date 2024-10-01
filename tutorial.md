@@ -8,11 +8,11 @@ Assuming you want to join the colony these commands are what will be most useful
 
 to start off with the first command you should type is:  
 c!joinqueue  
-to join the name queue for the ability to have your name selected for any new pawns that randomly join
+to join the name queue for the ability to have your twitch name selected for any new pawns that randomly join
 
 if you want to just vist the colony for 24 hours without joining type:  
 c$visitcolony  
-this will send a trader for 24 hours with a few items to trade. it costs 300 to do this command
+this will send a trader with your twitch user name to the colony for 24 hours with a few items to trade. it costs 300 to do this command
 
 ### NOTE:  
 these following commands use the "c$" prefix and cost money 
